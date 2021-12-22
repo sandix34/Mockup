@@ -11,6 +11,9 @@ Conception d'une maquette.
 Le nombre d'écrans à fournir est au minimum de 2 (version desktop & mobile). Idéalement pour
 chaque section. Dans un format PDF/PNG.
 
+## Use Case UML
+
+![Use_Case_Diagram](https://user-images.githubusercontent.com/44428775/147104580-2338acad-2bc6-410a-b42d-0c8906fd8956.png)
 
 ## Wireframe
 
